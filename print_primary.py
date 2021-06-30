@@ -1,5 +1,5 @@
-# author: <name here>
-# date: <date here>
+# author: Daniel Villano-Herrera
+# date: 0/00/0000
 
 # This is you first project! Today you will be familiarizing yourself with the print() statement.
 # What you are reading right now is a comment, which is annotation in source code. Don't worry about it too much, just
@@ -32,7 +32,9 @@
 #   frank ocean
 #
 # WRITE CODE BELOW
-print('elia')
+print('Daniel')
+print('7/03/2001')
+print('Tyler the Creator')
 
 # Project 1.2
 #   1) Print your first and last name using separation with commas. Separate your first and last name.
@@ -46,7 +48,8 @@ print('elia')
 #   bat-eared fox (otocyon megalotis)
 #
 # WRITE CODE BELOW
-print('elia', 'deppe')
+print('Daniel', 'Villano-Herrera')
+print('june', '30th', '2021')
 
 # Project 1.3
 #   1) Print the first 2-5 letters of a country's name with another country's last 2-5 letters of it's name. Use
@@ -64,7 +67,11 @@ print('elia', 'deppe')
 #
 #
 # WRITE CODE BELOW
-
+print('Me' + 'itius')
+print('Go,' 'go,' 'go,' 'go,' 'go,' 'go')
+print('Go,' 'shorty')
+print("It's " 'your' ' birthday')
+print('We gon ' 'party' ' like' " it's" ' your' ' birthday')
 
 # Finally your last instructions are to set the theme of your IDE. To do so follow these instructions
 #   1) File --> Settings
