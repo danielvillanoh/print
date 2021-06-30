@@ -25,3 +25,5 @@ print('Separating', 'words', 'with', 'something', 'new!', sep='@')
 #
 # WRITE CODE BELOW
 print("Daniel", "Villano-Herrera", sep='_')
+print('6', '30', '2021', sep='/')
+print('a', 'b', 'c', sep='###')
